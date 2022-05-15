@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/swatchit/static/css/main.d1a19b9e.css",
-    "main.js": "/swatchit/static/js/main.3c941996.js",
+    "main.js": "/swatchit/static/js/main.b816b378.js",
     "index.html": "/swatchit/index.html",
     "main.d1a19b9e.css.map": "/swatchit/static/css/main.d1a19b9e.css.map",
-    "main.3c941996.js.map": "/swatchit/static/js/main.3c941996.js.map"
+    "main.b816b378.js.map": "/swatchit/static/js/main.b816b378.js.map"
   },
   "entrypoints": [
     "static/css/main.d1a19b9e.css",
-    "static/js/main.3c941996.js"
+    "static/js/main.b816b378.js"
   ]
 }
