@@ -1,3 +1,7 @@
-# Swatch It
+# SwatchIt
 
-Swatch It is an easy way to pick colors for use in creation of websites or designs and copying their hexadecimal equivalent values.
+_A randomized color scheme generator._
+
+**Live Demo:** [SwatchIt Demo](https://devcarlan.github.io/swatchit/)
+
+I created this little project to test my overall grasp of components and the `useState()` hook in react. Also messed around with type-checking via `propTypes`.
